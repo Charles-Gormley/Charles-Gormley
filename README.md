@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Charles-Gormley/Charles-Gormley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Here's What I am working on!
 
 - 🔭 I’m currently working on RoboBrowser.py & BS4.py
 - 🌱 I’m currently learning tensorflow.py
@@ -12,5 +7,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about WebScraping
 - 📫 How to reach me: ceg98@drexel.edu
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Can Sing 
--->
+- ⚡ Fun fact: 
+
